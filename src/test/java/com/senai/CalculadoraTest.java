@@ -18,6 +18,6 @@ public class CalculadoraTest {
         int resultado = calculadora.somar(2, 3);
 
         // Compara o resultado esperado com o resultado obtido
-        assertEquals(4, resultado);
+        assertEquals(5, resultado);
     }
 }
